@@ -1,5 +1,3 @@
-
-
 <h1>🐾 Tabla de Animales</h1>
 
 <table>
@@ -42,4 +40,3 @@
 </table>
 
 </body>
-</html>
