@@ -1,7 +1,24 @@
 
 <table style="background-color: lightblue;">
 
- 
+ <style>
+table {
+    background-color: #ecf0f1;
+}
+
+th {
+    background-color: #2c3e50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #d5dbdb;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+</style>
 
 
     
