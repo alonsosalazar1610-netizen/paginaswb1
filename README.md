@@ -3,6 +3,26 @@
 
  
 
+
+    tr:nth-child(even) {
+        background-color: #ecf0f1;
+    }
+    tr:nth-child(odd) {
+        background-color: #ffffff;
+    }
+    img {
+        width: 120px;
+        border-radius: 10px;
+    }
+    .nombre {
+        font-weight: bold;
+        color: #2c3e50;
+    }
+    .desc {
+        color: #555;
+        font-size: 14px;
+    }
+</style>
 </head>
 
 <body>
