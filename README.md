@@ -1,10 +1,6 @@
 
 
-<tr>
-<th>Imagen</th>
-<th>Animal</th>
-<th>Descripción</th>
-</tr>
+
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"></td>
