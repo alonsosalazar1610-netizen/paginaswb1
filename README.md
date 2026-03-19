@@ -1,6 +1,6 @@
 
 
-</style>
+
 </head>
 
 <body>
