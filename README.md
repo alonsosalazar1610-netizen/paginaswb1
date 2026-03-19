@@ -2,7 +2,7 @@
 
 
  
-</style>
+
 </head>
 
 <body>
