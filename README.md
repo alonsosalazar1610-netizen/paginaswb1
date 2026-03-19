@@ -1,6 +1,66 @@
 
 
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Tabla de Animales</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+    padding: 20px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
+}
+
+th {
+    background: #2c3e50;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+}
+
+td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #dff9fb;
+    transform: scale(1.01);
+    transition: 0.3s;
+}
+
+img {
+    width: 120px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 3px solid #3498db;
+}
+
+b {
+    color: #2c3e50;
+    font-size: 16px;
+}
+</style>
+
 </head>
 
 <body>
