@@ -9,6 +9,9 @@
 <body>
 
 <h2 style="text-align:center; color:#2c3e50;">Tabla de Animales</h2>
+<p style="text-align:center; color:#7f8c8d; font-size:14px;">
+    Elaborado por: <b>Alonso Salazar</b>
+</p>
 
 <table>
 <tr>
