@@ -1,29 +1,6 @@
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<title>Animales</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f6f7;
-    }
-    table {
-        width: 80%;
-        margin: auto;
-        border-collapse: collapse;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-    }
-    th {
-        background-color: #2c3e50;
-        color: white;
-        padding: 12px;
-    }
-    td {
-        padding: 10px;
-        text-align: center;
+
     }
     tr:nth-child(even) {
         background-color: #ecf0f1;
